@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f30d9e641bc5b5c4f84e0a44299e19a5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BoundsShader: {fileID: 4800000, guid: c456fc261643dab4a82646f38b4a1fe9, type: 3}
+  - _albedoMap: {instanceID: 0}
+  - _heightMap: {instanceID: 0}
+  - _normalMap: {instanceID: 0}
+  - _terrainCompute: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
